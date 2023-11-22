@@ -6,3 +6,4 @@
 
 #### 3- fraud detection model
 
+#### 4- sonar vs mine prediction - dataset(Copy of sonar data.csv)
