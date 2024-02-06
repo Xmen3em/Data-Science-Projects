@@ -1,6 +1,6 @@
 # Projects
 
-#### 1- predict car prices - [DataSet](https://github.com/Xmen3em/Projects/blob/main/predict%20car%20prices.ipynb)
+#### 1- predict car prices - [DataSet](https://github.com/Xmen3em/Projects/blob/main/sales.csv)
 
 #### 2- model to predict future sales - [DataSet](https://github.com/Xmen3em/Projects/blob/main/sales.csv)
 
