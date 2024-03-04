@@ -1,4 +1,4 @@
-# Projects
+# "List of my beginner projects."
 
 #### 1- predict car prices - [DataSet](https://github.com/Xmen3em/Projects/blob/main/sales.csv)
 
