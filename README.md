@@ -22,5 +22,4 @@
 
 #### 11- Insurance Costs - [project](https://github.com/Xmen3em/Beginner-Projects/tree/main/Medical%20Cost%20Personal%20Datasets)
 
-#### 12- Forest Fires - [project](https://github.com/Xmen3em/Beginner-Projects/tree/main/preidict%20forest%20fires)
 
