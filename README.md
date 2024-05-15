@@ -4,7 +4,7 @@
 
 #### 2- model to predict future sales - [DataSet](https://github.com/Xmen3em/Projects/blob/main/sales.csv)
 
-#### 3- fraud detection model
+#### 3- fraud detection model - [project](https://github.com/Xmen3em/Beginner-Projects/blob/main/Fraud%20Detection%20model.ipynb)
 
 #### 4- sonar vs mine prediction - [DataSet](https://github.com/Xmen3em/Projects/blob/main/Copy%20of%20sonar%20data.csv)
 
