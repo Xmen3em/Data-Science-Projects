@@ -30,3 +30,4 @@ weather = pd.DataFrame({'desc': desc,
 is_night = weather["temp"].str.contains("Low")
 weather["is_night"] = is_night
 print(weather)
+weather.to_csv('weather data.csv', index = False)
