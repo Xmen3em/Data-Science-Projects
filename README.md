@@ -27,3 +27,5 @@
 #### 13- Food101 Dataset - [project](https://github.com/Xmen3em/Beginner-Projects/tree/main/Deep%20Learning/Food%20Vision%20Big)
 
 #### 14- Wep Scraping Projects - [projects](https://github.com/Xmen3em/Beginner-Projects/tree/main/Web%20Scraping%20Projects)
+
+#### 15- DEPI Tasks - [Tasks](https://github.com/Xmen3em/Beginner-Projects/tree/main/DEPI%20Tasks)
