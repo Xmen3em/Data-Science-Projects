@@ -31,3 +31,6 @@
 #### 15- DEPI Tasks - [Tasks](https://github.com/Xmen3em/Beginner-Projects/tree/main/DEPI%20Tasks)
 
 #### 16- Beginner-NLP-Projects - [here](https://github.com/Xmen3em/Beginner-Projects/tree/main/Beginner-NLP-%20Projects)
+
+#### 17- Computer Vision Projects - [here](
+
