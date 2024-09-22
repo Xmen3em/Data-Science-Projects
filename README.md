@@ -32,5 +32,5 @@
 
 #### 16- Beginner-NLP-Projects - [here](https://github.com/Xmen3em/Beginner-Projects/tree/main/Beginner-NLP-%20Projects)
 
-#### 17- Computer Vision Projects - [here](
+#### 17- Computer Vision Projects - [here](https://github.com/Xmen3em/Beginner-Projects/tree/main/Computer%20Vision/Object%20Detection)
 
