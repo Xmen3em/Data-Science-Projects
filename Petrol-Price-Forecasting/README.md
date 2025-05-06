@@ -2,6 +2,12 @@
 
 This project is a time series analysis and prediction application for petrol prices. It uses machine learning models to analyze historical data and predict future trends. The application is built with Streamlit for an interactive user interface.
 
+
+
+https://github.com/user-attachments/assets/3ef4640e-3ea4-4379-8857-5a50dd01e1ff
+
+
+
 ## Project Structure
 
 - **`app.py`**: The main Streamlit application file.
@@ -31,7 +37,7 @@ This project is a time series analysis and prediction application for petrol pri
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/petrol-price-forecasting.git
+   git clone https://github.com/Xmen3em/Data-Science-Projects.git
    cd petrol-price-forecasting
    ```
 
